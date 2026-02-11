@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data directory (contains ChromaDB and index state)
+data/
+
+# Settings (contains API keys)
+settings.json
+
+# IDE
+.vscode/
+.idea/

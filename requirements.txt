@@ -1,0 +1,30 @@
+# Gradio web interface
+gradio
+
+# Embeddings and vector database
+sentence-transformers
+chromadb
+
+# Microsoft Graph API authentication
+msal
+requests
+
+# HTML parsing for email body extraction
+beautifulsoup4
+
+# PST file reading (optional - for local Outlook archives)
+# Note: pypff may require manual installation on Windows
+# pypff-python
+
+# LLM backends
+openai
+ollama
+
+# PyTorch (for sentence-transformers GPU support)
+torch
+
+# Attachment text extraction
+pypdf2
+python-docx
+openpyxl
+python-pptx
